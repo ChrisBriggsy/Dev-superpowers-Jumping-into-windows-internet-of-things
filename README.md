@@ -1,2 +1,3 @@
-# Dev-superpowers-Jumping-into-windows-internet-of-things-
-The libraries used in my 'Dev Superpowers: Jumping into Windows Internet of Things development by using the Universal Windows Platform' presentation
+# Dev superpowers Jumping into Windows Internet of Things.
+
+Source code for 'Dev Superpowers: Jumping into Windows Internet of Things development by using the Universal Windows Platform' presentation
